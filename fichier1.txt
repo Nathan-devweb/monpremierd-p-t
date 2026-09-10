@@ -1,2 +1,2 @@
-Ceci est un méssage du premier dev
-Ceci est un message du deuxième dev
+Début du projet réel
+--signé le dev2
